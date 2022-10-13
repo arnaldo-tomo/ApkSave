@@ -1,0 +1,10 @@
+{
+  "name": "ApkSave",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
