@@ -20,6 +20,8 @@ public api: any;
   getData() {
     this.ApiService.getData().subscribe(res => { this.api = res; });
   }
+
+  //outro commit bem nice
   detalhes(dado) {
     console.log(dado);
 
