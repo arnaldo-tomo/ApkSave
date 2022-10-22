@@ -16,6 +16,7 @@ public api: any;
 
     this.getData();
   }
+  //metedo mao
   getData() {
     this.ApiService.getData().subscribe(res => { this.api = res; });
   }
